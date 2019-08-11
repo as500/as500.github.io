@@ -18,8 +18,9 @@ And what the fantastic communitity that we have can do to make that happen.
 
 ******Which things?******
 
-Take a look at the [project page](https://github.com/orgs/as500/projects) for starters.   It's a bit rough, 
-but please take that as an opportunity to contribute.
+Take a look at the [project page](https://github.com/as500/as500.github.io/issues) for starters.   It's a bit rough, 
+but please take that as an opportunity to contribute.  If you see an issue that captures your interest, 
+please consider commenting or staring it even if you can help contribute more.
 
 
 We can do this, if we're willing to share our ideas, and some of our time.
